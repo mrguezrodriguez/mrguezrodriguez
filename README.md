@@ -14,8 +14,7 @@
 ### 🧠 About me
 
 Lingüista de formación, Data Scientist en proceso.  
-Me interesan los datos con texto — NLP, patrones, modelos que entienden lenguaje.  
-Actualmente en el bootcamp Data Science & ML de **The Bridge**.
+Me interesan los datos con texto — NLP, patrones, modelos que entienden lenguaje.
 
 ---
 
