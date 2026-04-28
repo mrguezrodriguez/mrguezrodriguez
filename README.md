@@ -1,5 +1,5 @@
 <!-- mrguezrodriguez GitHub Profile README -->
-<h1 align="center">María Rodríguez Rodríguez 👋</h1>
+<h1 align="center">María Rodríguez Rodríguez </h1>
 <h3 align="center">Data Scientist · Linguist · Meaning Miner</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-1D9E75?style=flat-square&logoColor=white" />
