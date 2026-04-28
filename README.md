@@ -1,31 +1,36 @@
 <!-- mrguezrodriguez GitHub Profile README -->
-
-<h1 align="center">Hi, I'm María Rodríguez Rodríguez 👋</h1>
+<h1 align="center">María Rodríguez Rodríguez 👋</h1>
 <h3 align="center">Data Scientist · Linguist · Meaning Miner</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-1D9E75?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-7F77DD?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-378ADD?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analytics-EF9F27?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EF4444?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data-EF9F27?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 About me
 
-Lingüista reconvertida en **Data Scientist**. Máster en Comunicación Internacional, actualmente en formación en Data Science con experiencia en análisis de datos. Antes de los modelos, trabajé con lenguaje — y resulta que no son tan distintos. Me muevo bien entre la automatización de procesos, la gestión de datos y los entornos digitales complejos.
+Lingüista de formación, Data Scientist en proceso.  
+Me interesan los datos con texto — NLP, patrones, modelos que entienden lenguaje.  
+Actualmente en el bootcamp Data Science & ML de **The Bridge**.
 
 ---
 
 ### 🛠️ Tech stack
 
-```
-Languages & Data     Python · Pandas · NumPy · SQL
-Machine Learning     Scikit-learn · TensorFlow · PyTorch
-Visualization        Power BI · Tableau
-Tools & Platforms    HubSpot · Zapier · Moodle
-```
+~~~
+Core                 Python · NumPy · Pandas · SQL
+Data Collection      APIs · Web Scraping
+Visualization        Matplotlib · Seaborn · Power BI · Tableau
+Machine Learning     Scikit-learn · Diseño de modelos predictivos
+Deep Learning        TensorFlow · Keras · Redes Neuronales
+AI Applied           NLP · Computer Vision
+Cloud & Deploy       AWS · Docker · Arquitecturas Cloud
+Big Data             Tecnologías Big Data en entornos reales
+~~~
 
 ---
 
