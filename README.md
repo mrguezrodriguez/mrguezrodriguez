@@ -1,12 +1,10 @@
 <!-- mrguezrodriguez GitHub Profile README -->
 <h1 align="center">María Rodríguez Rodríguez</h1>
-<h3 align="center">Data Scientist · Linguist · Meaning Miner</h3>
-<p align="center"><em>Platforms & automation</em></p>
+<h3 align="center">Data Scientist · Linguist · Platforms & automation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-1D9E75?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-7F77DD?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-378ADD?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-EF4444?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-D85A30?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-0F6E56?style=flat-square&logoColor=white" />
