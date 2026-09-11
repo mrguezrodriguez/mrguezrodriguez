@@ -18,8 +18,6 @@ Lingüista de formación, Data Scientist en proceso.
 
 **Coordinación Académica & Tech en The Bridge** — automatizo procesos, construyo plataformas de aprendizaje y despliego las herramientas internas con las que trabaja el equipo.
 
-Me interesan los datos con texto — NLP, patrones, modelos que entienden lenguaje.
-
 ---
 
 ### 🛠️ Tech stack
